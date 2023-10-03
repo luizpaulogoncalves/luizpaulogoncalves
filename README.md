@@ -2,7 +2,7 @@
   ##
 - 📘 Currently studying full stack web development postgraduate.
 - ⚡ Fun fact: Music Eletronic 🎵 && Pedal 🚲 && Sports Cars 🚗.
-- My official account that I use on github: luizpaulogroup
+- 💻 My official account that I use on github: luizpaulogroup
   ##
   [My portfolio](https://luizpaulogroup.github.io/)
   ##
